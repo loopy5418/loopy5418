@@ -2,10 +2,6 @@
 <h3 align="center">A hobbyist and tech nerd from Türkiye</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loopy5418&label=Profile%20views&color=0e75b6&style=plastic" alt="loopy5418" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loopy5418" alt="loopy5418" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/loopy5418" target="blank"><img src="https://img.shields.io/twitter/follow/loopy5418?logo=twitter&style=for-the-badge" alt="loopy5418" /></a> </p>
-
 - 🔭 I’m currently working on [Unknown Internet Place](https://docs.loopy5418.dev)
 
 - 🌱 I’m currently learning **Databases and web hosting**
