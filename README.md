@@ -2,15 +2,15 @@
 <h3 align="center">A hobbyist and tech nerd from Türkiye</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loopy5418&label=Profile%20views&color=0e75b6&style=plastic" alt="loopy5418" /> </p>
 
-- 🔭 I’m currently working on [Unknown Internet Place](https://docs.loopy5418.dev)
+- 🔭 I’m currently working on Bruce Interpreter Generator with Blockly
 
-- 🌱 I’m currently learning **Databases and web hosting**
+- 🌱 I’m currently learning **JavaScript generators for Blockly**
 
-- 👨‍💻 All of my projects are available at [https://www.loopy5418.dev/projects](https://www.loopy5418.dev/projects)
+- 👨‍💻 All of my projects are available at nowhere at the moment
 
-- 📝 I regularly write articles on [https://docs.loopy5418.dev](https://docs.loopy5418.dev)
+- 📝 I regularly write articles on nowhere at the moment
 
-- 💬 Ask me about **lua, md, bash, adb and sdk-tools**
+- 💬 Ask me about **lua, js, roblox, md, bash, adb and sdk-tools**
 
 - 📫 How to reach me **admin@loopy5418.dev**
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/loopy5418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="loopy5418" height="30" width="40" /></a>
-<a href="https://twitter.com/loopy5418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loopy5418" height="30" width="40" /></a>
+<a href="https://x.com/loopy5418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loopy5418" height="30" width="40" /></a>
 <a href="https://instagram.com/loopy5418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="loopy5418" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@loopy5418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@loopy5418" height="30" width="40" /></a>
 <a href="https://discord.gg/Fa4Cb9fAh2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fa4Cb9fAh2" height="30" width="40" /></a>
