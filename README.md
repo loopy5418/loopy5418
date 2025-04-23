@@ -2,19 +2,19 @@
 <h3 align="center">A hobbyist and tech nerd from Türkiye</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loopy5418&label=Profile%20views&color=0e75b6&style=plastic" alt="loopy5418" /> </p>
 
-- 🔭 I’m currently working on Bruce Interpreter Generator with Blockly
+- 🔭 I’m currently working on **my brand new API**
 
-- 🌱 I’m currently learning **JavaScript generators for Blockly**
+- 🌱 I’m currently learning **Flask and Heroku Deployment**
 
 - 👨‍💻 All of my projects are available at nowhere at the moment
 
 - 📝 I regularly write articles on nowhere at the moment
 
-- 💬 Ask me about **lua, js, roblox, md, bash, adb and sdk-tools**
+- 💬 Ask me about **lua, js, roblox, md, bash, adb, sdk-tools, python**
 
 - 📫 How to reach me **admin@loopy5418.dev**
 
-- ⚡ Fun fact **[insert fun fact here]**
+- ⚡ Fun fact: **this is a fun fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
