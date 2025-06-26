@@ -32,6 +32,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loopy5418&theme=dark" alt="loopy5418" /></p>
 
+<h1 align="center">Owner of</h1>
+<picture>
+  <source srcset="https://api.loopy5418.dev/icons/transparent/whiteTransparentLandscape1818.png" media="(prefers-color-scheme: dark)">
+  <source srcset="https://api.loopy5418.dev/icons/transparent/blackTransparentLandscape1818.png" media="(prefers-color-scheme: light)">
+  <img src="https://api.loopy5418.dev/icons/transparent/whiteTransparentLandscape1818.png" alt="auto-switching image">
+</picture>
+
+
 <details>
 
 ```json
